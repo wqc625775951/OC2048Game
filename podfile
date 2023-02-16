@@ -1,0 +1,9 @@
+
+platform :ios, "12.0"
+
+inhibit_all_warnings!
+
+target 'OC2048Game' do
+	pod 'Masonry',:git => 'https://github.com/SnapKit/Masonry.git'
+	pod 'lottie-ios', :git => 'https://gitee.com/dog-third/lottie-ios.git', :tag => '2.5.3'
+end	

@@ -1,0 +1,30 @@
+PODS:
+  - lottie-ios (2.5.3)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - lottie-ios (from `https://gitee.com/dog-third/lottie-ios.git`, tag `2.5.3`)
+  - Masonry (from `https://github.com/SnapKit/Masonry.git`)
+
+EXTERNAL SOURCES:
+  lottie-ios:
+    :git: https://gitee.com/dog-third/lottie-ios.git
+    :tag: 2.5.3
+  Masonry:
+    :git: https://github.com/SnapKit/Masonry.git
+
+CHECKOUT OPTIONS:
+  lottie-ios:
+    :git: https://gitee.com/dog-third/lottie-ios.git
+    :tag: 2.5.3
+  Masonry:
+    :commit: 8bd77ea92bbe995e14c454f821200b222e5a8804
+    :git: https://github.com/SnapKit/Masonry.git
+
+SPEC CHECKSUMS:
+  lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
+  Masonry: 890751a1008d6f33a97b032f4ecad4870d7eed3a
+
+PODFILE CHECKSUM: 951f5a23e651478a5ddbd7de13b3a4bfe2a712e6
+
+COCOAPODS: 1.11.3
